@@ -1,5 +1,10 @@
 # LLM & Agent Engineering Learning Path
 
+## Stage 0 — Python Data and Classical NLP Foundations
+
+1. [2026 Python Data Analysis & Visualization Masterclass](https://www.udemy.com/course/python-data-analysis-visualization/) (Colt Steele, Udemy) — Pandas, Matplotlib, Seaborn on text-heavy real datasets.
+2. [NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) (Jose Portilla, Udemy) — Classical text processing: regex, NLTK, spaCy, POS/NER, text classification, topic modeling.
+
 ## Stage 1 — Transformer Concepts
 
 1. [How Transformer LLMs Work](https://www.deeplearning.ai/courses/how-transformer-llms-work) — Explain the full forward pass: tokens → embeddings → attention → prediction, plus the KV cache.
